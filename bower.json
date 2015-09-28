@@ -1,0 +1,12 @@
+{
+  "name": "ang-proper-possessive",
+  "description": "A simple directive to properly handle possessive nouns.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codehangar/ng-proper-possessive",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x"
+  }
+}
