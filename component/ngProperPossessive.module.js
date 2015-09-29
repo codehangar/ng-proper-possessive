@@ -1,4 +1,4 @@
 'use strict';
 
 angular
-  .module('ngProperPossessive', []);
+  .module('properPossessive', []);

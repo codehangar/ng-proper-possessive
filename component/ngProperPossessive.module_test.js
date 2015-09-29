@@ -1,6 +1,6 @@
 'use strict';
 
 describe('ngProperPossessive module', function () {
-  beforeEach(module('ngProperPossessive'));
+  beforeEach(module('properPossessive'));
 
 });
