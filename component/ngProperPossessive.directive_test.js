@@ -1,7 +1,7 @@
 'use strict';
 
-describe('properPossessive module', function () {
-  beforeEach(module('properPossessive'));
+describe('ngProperPossessive module', function () {
+  beforeEach(module('ngProperPossessive'));
 
   describe('properPossessive directive', function () {
     it('should print a noun/name ending in s followed by only an apostrophy', function () {

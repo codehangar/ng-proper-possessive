@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('properPossessive')
+angular.module('ngProperPossessive')
     .directive('properPossessive', function() {
         return {
             restrict: 'A',
