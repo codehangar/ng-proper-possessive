@@ -6,7 +6,6 @@ A simple AngularJS directive to properly handle possessive nouns.
 
 ## Getting Started
 
-
 #### Manual Download
 Download the from [here](https://github.com/codehangar/ng-proper-possessive/releases)
 
@@ -33,7 +32,7 @@ Example:
   ```html
   <span proper-posseive name="user.name"></span>
   ```
-  
+
 ## Credits
 This project was initially forked from the application template seed here
 [https://github.com/refactorthis/angular-component-seed.git](https://github.com/refactorthis/angular-component-seed.git)
