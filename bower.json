@@ -8,5 +8,8 @@
   "devDependencies": {
     "angular": "1.2.x",
     "angular-mocks": "~1.2.x"
-  }
+  },
+  "main": [
+    "./dist/ngProperPosessive.min.js"
+  ]
 }

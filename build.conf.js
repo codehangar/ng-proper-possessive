@@ -6,7 +6,7 @@ module.exports = {
   srcJs: ['component/**/*.module.js', 'component/**/*.js', '!component/**/*_test.js'],
   tests: 'component/**/*_test.js',
   buildFolder: 'dist',
-  buildJsFilename: 'ngProperPosessive.js',
+  buildJsFilename: 'ngProperPossessive.js',
   banner: '/*!\n' +
     ' * See LICENSE in this repository for license information\n' +
     ' */\n',

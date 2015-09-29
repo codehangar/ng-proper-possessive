@@ -22,9 +22,9 @@ npm install ng-copy-text
 
 ## Usage
 
-1. Add ngProperPosessive.min.js to your main file (index.html)
+1. Add ngProperPossessive.min.js to your main file (index.html)
   ```html
-  <script type="text/javascript" src="bower_components/ng-proper-possessive/dist/ngProperPosessive.min.js"></script>
+  <script type="text/javascript" src="bower_components/ng-proper-possessive/dist/ngProperPossessive.min.js"></script>
   ```
 
 2. Set `ngProperPossessive` as a dependency in your module
