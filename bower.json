@@ -1,7 +1,7 @@
 {
   "name": "ang-proper-possessive",
   "description": "A simple directive to properly handle possessive nouns.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/codehangar/ng-proper-possessive",
   "license": "MIT",
   "private": false,
