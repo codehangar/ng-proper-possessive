@@ -4,7 +4,7 @@
 
 A simple AngularJS directive to properly handle possessive nouns.
 
-## Getting Started
+# Getting Started
 
 #### Manual Download
 Download the from [here](https://github.com/codehangar/ng-proper-possessive/releases)
