@@ -26,6 +26,7 @@ npm install ng-copy-text
   ```html
   <script type="text/javascript" src="bower_components/ng-proper-possessive/dist/ngProperPossessive.min.js"></script>
   ```
+  (Bower should inject the script into your project)
 
 2. Set `ngProperPossessive` as a dependency in your module
   ```javascript
