@@ -30,7 +30,7 @@ npm install ng-copy-text
 2. Add proper-possessive directive to the desired element, and set the 'name' attribute to the value you need to manipulate.
 Example:
   ```html
-  <span proper-posseive name="user.name"></span>
+  <span proper-possessive name="user.name"></span>
   ```
 
 ## Credits
