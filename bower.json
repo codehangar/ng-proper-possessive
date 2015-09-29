@@ -10,6 +10,6 @@
     "angular-mocks": "~1.2.x"
   },
   "main": [
-    "./dist/ngProperPosessive.min.js"
+    "./dist/ngProperPossessive.min.js"
   ]
 }
