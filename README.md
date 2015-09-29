@@ -22,15 +22,20 @@ npm install ng-copy-text
 
 ## Usage
 
-1. Set `ngProperPossessive` as a dependency in your module
+1. Add ngProperPosessive.min.js to your main file (index.html)
+  ```html
+  <script type="text/javascript" src="bower_components/ng-proper-possessive/dist/ngProperPosessive.min.js"></script>
+  ```
+
+2. Set `ngProperPossessive` as a dependency in your module
   ```javascript
   var myapp = angular.module('myapp', ['ngProperPossessive'])
   ```
 
-2. Add proper-possessive directive to the desired element, and set the 'name' attribute to the value you need to manipulate.
+3. Add proper-possessive directive to the desired element, and set the 'name' attribute to the value you need to manipulate.
 Example:
   ```html
-  <span proper-possessive name="user.name"></span>
+  <span proper-possessive name="{{user.name}}"></span>
   ```
 
 ## Credits
